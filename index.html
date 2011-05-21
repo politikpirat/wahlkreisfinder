@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+  <head> 
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/> 
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <title>GMAPS Address to Polygon Verification</title> 
+    <script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAA4Uq00U_KzDKlyRUvjx5-UxSqLiRHl5Jo_65kjhE22myLnR5taRRSqnIWgGNo6xQJUoYHWOCHGgQNMg" 
+            type="text/javascript"></script> 
+    <script src="maps.google.polygon.containsLatLng.js" type="text/javascript"></script>
+    <script type="text/javascript"> 
+ 
+    var map;
+    var geocoder;
+ 
+	var point;
+
+	function detectBrowser() {
+	  var useragent = navigator.userAgent;
+	  var mapdiv = document.getElementById("map_canvas");
+   	  var wrapperdiv = document.getElementById("wrapper");
+ 
+	  if (useragent.indexOf('iPhone') != -1 || useragent.indexOf('Android') != -1 ) {
+	    mapdiv.style.width = '100%';
+	    mapdiv.style.height = '100%';
+	    wrapperdiv.style.width = '100%';
+            wrapperdiv.style.height = '500px';
+	  } else {
+	    mapdiv.style.width = '800px';
+	    mapdiv.style.height = '600px';
+	    wrapperdiv.style.width = '800px';
+	    wrapperdiv.style.margin = '0 auto';
+	  }
+	}
+
+    function initialize() {
+
+      detectBrowser();
+
+      map = new GMap2(document.getElementById("map_canvas"));
+      	map.setCenter(new GLatLng(52.5166667,13.4), 11);
+	//map.setBaseCountryCode("de");
+      	//map.addControl(new GLargeMapControl());
+      	//map.addControl(new GMapTypeControl());
+	geocoder = new GClientGeocoder();
+	
+	var pami = new GGeoXml("http://uu.martindelius.de/Pankow_Mitte_Friedrichshain-Kreuzberg.kml");
+	var cwsprd = new GGeoXml("http://uu.martindelius.de/Neukoelln_Tempelhof-Schoeneberg_Steglitz-Zehlendorf.kml");
+	var nktssz = new GGeoXml("http://uu.martindelius.de/Charlottenburg-Wilmersdorf_Spandau_Reinickendorf.kml");
+	var limhtk = new GGeoXml("http://uu.martindelius.de/Lichtenberg_Marzahn-Hellersdorf_Treptow-Koepenick.kml");
+       
+	map.addOverlay(pami); 
+        map.addOverlay(cwsprd);
+	map.addOverlay(limhtk);
+	map.addOverlay(nktssz);
+
+	}
+ 
+    function addAddressToMap(response) {
+      if (!response || response.Status.code != 200) {
+        alert("Adresse nicht gefunden.");
+      } else {
+        place = response.Placemark[0];
+	out_html = '' + place.Point.coordinates[1] + ', ' + place.Point.coordinates[0];
+        point = new GLatLng(place.Point.coordinates[1],
+                            place.Point.coordinates[0]);
+        marker = new GMarker(point);
+	map.addOverlay(marker);
+	map.setCenter(new GLatLng(place.Point.coordinates[1], place.Point.coordinates[0]),15);
+
+	html = place.address + ' - ' + out_html;
+      	
+	GEvent.addListener(marker, "click", function() {
+          marker.openInfoWindow(html);
+        });
+
+	document.getElementById("out").innerHTML = html;
+      }
+    }
+ 
+    function showLocation() {
+      var add = document.forms[0].q.value;
+      var address = '';
+      if (add.match(",")) {
+	address = add;
+	geocoder.getLocations(address, addAddressToMap);
+      } else { 
+	address = add + ', Berlin';
+      	geocoder.getLocations(address, addAddressToMap);	
+      }; 
+    }
+
+    function resetMap() {	
+      	initialize();
+	document.forms[0].q.value = "";
+    }
+ 
+    </script>
+
+	<style type="text/css"> 
+	html { font-family: arial, sans-serif; line-height: 150%; }
+
+	h1 { width : 100%; text-align: center;}
+
+	#wrapper p  { width: 100% } 
+	
+	#address  { width: 90%; margin: 0 auto; }
+	
+	#wrapper { word-wrap: break-word; }
+
+	#map_canvas { line-height: 80%; }
+
+	#map_canvas div { height: auto; } 
+	a { color: #000; text-decoration: none; font-weight: bold; }
+	a:hover { color: #f80; }
+ 
+	#out { width: 100%; font-size: 80%; }
+	</style> 
+ 
+  </head> 
+ 
+  <body onload="initialize()">
+  <div id="wrapper">
+    <h1>Wahlkreisfinder</h1> 
+    <form action="#" onsubmit="showLocation(); return false;"> 
+      <p> 
+        <b>Adresse:</b> 
+        <input id="address" type="text" name="q" value="" class="address_input" size="40" /> 
+        <input type="submit" name="find" value="suchen" /> 
+      	<button id="reset_button" onclick="resetMap()" type="button">reset</button>
+      </p> 
+    </form>
+    <div id="map_canvas"></div>
+    <div id="out"></div>
+ </div><!--#wrapper-->
+ </body> 
+</html> 
