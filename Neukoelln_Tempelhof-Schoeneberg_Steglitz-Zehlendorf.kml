@@ -38,11 +38,11 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   </Style>
   <Style id="style13">
     <LineStyle>
-      <color>40000000</color>
+      <color>FF000000</color>
       <width>3</width>
     </LineStyle>
     <PolyStyle>
-      <color>73FF6633</color>
+      <color>730099FF</color>
       <fill>1</fill>
       <outline>1</outline>
     </PolyStyle>
@@ -60,22 +60,22 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   </Style>
   <Style id="style16">
     <LineStyle>
-      <color>40000000</color>
+      <color>FF000000</color>
       <width>3</width>
     </LineStyle>
     <PolyStyle>
-      <color>73CC33CC</color>
+      <color>730099FF</color>
       <fill>1</fill>
       <outline>1</outline>
     </PolyStyle>
   </Style>
   <Style id="style10">
     <LineStyle>
-      <color>40000000</color>
+      <color>FF000000</color>
       <width>3</width>
     </LineStyle>
     <PolyStyle>
-      <color>7333FF33</color>
+      <color>730099FF</color>
       <fill>1</fill>
       <outline>1</outline>
     </PolyStyle>
@@ -248,7 +248,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Neukölln 1</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Benjamin Meyer (<a href="http://wiki.piratenpartei.de/Benutzer:Benny">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/2/2b/UU-Formblatt_Benjamin_Meyer_2011.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/c/c8/UU-Formblatt_BVV_Neukoelln_2011.pdf">Formular für die BVV-Liste Neukölln</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Neuk.C3.B6lln_.28BVV.29">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Benjamin Meyer (<a href="http://wiki.piratenpartei.de/Benutzer:Benny">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/2/2b/UU-Formblatt_Benjamin_Meyer_2011.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/4/4e/UU-Formblatt_BVV_Neuk%C3%B6lln_2011.pdf">Formular für die BVV-Liste Neukölln</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Neuk.C3.B6lln_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -305,7 +305,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Neukölln 2</name>
     <Snippet></Snippet>
-    <description><![CDATA[Anne Helm<a href="http://wiki.piratenpartei.de/Benutzer:Seer%C3%A4uberJenny44"> (Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/2/23/UU-Formblatt_Anne_Helm_2011.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/c/c8/UU-Formblatt_BVV_Neukoelln_2011.pdf">Formular für die BVV-Liste Neukölln</a><a href="http://wiki.piratenpartei.de/wiki/images/c/c8/UU-Formblatt_BVV_Neukoelln_2011.pdf"> </a>(<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Neuk.C3.B6lln_.28BVV.29">Kandidaten</a>)<br>
+    <description><![CDATA[Anne Helm<a href="http://wiki.piratenpartei.de/Benutzer:Seer%C3%A4uberJenny44"> (Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/2/23/UU-Formblatt_Anne_Helm_2011.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/4/4e/UU-Formblatt_BVV_Neuk%C3%B6lln_2011.pdf">Formular für die BVV-Liste Neukölln</a><a href="http://wiki.piratenpartei.de/wiki/images/c/c8/UU-Formblatt_BVV_Neukoelln_2011.pdf"> </a>(<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Neuk.C3.B6lln_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -366,7 +366,13 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Neukölln 3</name>
     <Snippet></Snippet>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<div dir="ltr">Semih Kasap<br><br><a href="http://wiki.piratenpartei.de/wiki/images/e/ea/UU-Formblatt_Semih_Kasap_2011.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/4/4e/UU-Formblatt_BVV_Neuk%C3%B6lln_2011.pdf">Formular für die BVV-Liste Neukölln</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Neuk.C3.B6lln_.28BVV.29">Kandidaten</a>)<br>
+
+
+<br>
+
+
+<a href="http://wiki.piratenpartei.de/wiki/images/c/c8/UU-Formblatt_BVV_Neukoelln_2011.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br></div>]]></description>
     <styleUrl>#style13</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -436,7 +442,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Neukölln 4</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Mathias Zaech (<a href="http://wiki.piratenpartei.de/Benutzer:DudeMinds">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/5/57/UU-Formblatt_Mathias_Zaech_2011.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/c/c8/UU-Formblatt_BVV_Neukoelln_2011.pdf">Formular für die BVV-Liste Neukölln</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Neuk.C3.B6lln_.28BVV.29">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Mathias Zaech (<a href="http://wiki.piratenpartei.de/Benutzer:DudeMinds">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/5/57/UU-Formblatt_Mathias_Zaech_2011.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/4/4e/UU-Formblatt_BVV_Neuk%C3%B6lln_2011.pdf">Formular für die BVV-Liste Neukölln</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Neuk.C3.B6lln_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -527,7 +533,13 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Neukölln 5</name>
     <Snippet></Snippet>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[Andre Trecksel (<a href="http://wiki.piratenpartei.de/Benutzer:7ta">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/c/c1/UU-Formblatt_Andre_Trecksel_2011.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/4/4e/UU-Formblatt_BVV_Neuk%C3%B6lln_2011.pdf">Formular für die BVV-Liste Neukölln</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Neuk.C3.B6lln_.28BVV.29">Kandidaten</a>)<br>
+
+
+<br>
+
+
+<a href="http://wiki.piratenpartei.de/wiki/images/c/c8/UU-Formblatt_BVV_Neukoelln_2011.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br>]]></description>
     <styleUrl>#style16</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -601,7 +613,13 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Neukölln 6</name>
     <Snippet></Snippet>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<div dir="ltr">Steffen Burger (<a href="http://wiki.piratenpartei.de/Benutzer:Aly">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/UU-Formblatt_Steffen_Burger_2011.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/4/4e/UU-Formblatt_BVV_Neuk%C3%B6lln_2011.pdf">Formular für die BVV-Liste Neukölln</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Neuk.C3.B6lln_.28BVV.29">Kandidaten</a>)<br>
+
+
+<br>
+
+
+<a href="http://wiki.piratenpartei.de/wiki/images/c/c8/UU-Formblatt_BVV_Neukoelln_2011.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br></div>]]></description>
     <styleUrl>#style10</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -661,7 +679,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Tempelhof-Schöneberg 1</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Stefan Schulz-Günther (<a href="http://wiki.piratenpartei.de/Benutzer:Stefan_Gue">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/f/f0/UU_2011_TS_5.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_.28BVV.29">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Alexander Spies (<a href="http://wiki.piratenpartei.de/Benutzer:Aspirat">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/Datei:UU_2011_TS_1.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -709,7 +727,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Tempelhof-Schöneberg 2</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Simon Kowalewski (<a href="http://wiki.piratenpartei.de/Benutzer:DeBaer">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/7/73/UU_2011_TS_2.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Simon Kowalewski (<a href="http://wiki.piratenpartei.de/Benutzer:DeBaer">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/7/73/UU_2011_TS_2.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -764,7 +782,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Tempelhof-Schöneberg 3</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Michael Ickes (<a href="http://wiki.piratenpartei.de/Benutzer:MiMaiMix">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/2/29/UU_2011_TS_3.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Michael Ickes (<a href="http://wiki.piratenpartei.de/Benutzer:MiMaiMix">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/2/29/UU_2011_TS_3.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -810,7 +828,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Tempelhof-Schöneberg 4</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Jakob Pfender (<a href="http://wiki.piratenpartei.de/Benutzer:NorkNork">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/b/bb/UU_2011_TS_4.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Jakob Pfender (<a href="http://wiki.piratenpartei.de/Benutzer:NorkNork">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/b/bb/UU_2011_TS_4.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -897,7 +915,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Tempelhof-Schöneberg 5</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Stefan Schulz-Günther (<a href="http://wiki.piratenpartei.de/Benutzer:Stefan_Gue">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/f/f0/UU_2011_TS_5.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Stefan Schulz-Günther (<a href="http://wiki.piratenpartei.de/Benutzer:Stefan_Gue">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/f/f0/UU_2011_TS_5.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9c/UU_2011_TS_BVV.pdf">Formular für die BVV-Liste Tempelhof-Schöneberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Tempelhof-Sch.C3.B6neberg_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -1214,7 +1232,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Steglitz-Zehlendorf 1</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Gerwald Claus-Brunner (<a href="http://wiki.piratenpartei.de/Benutzer:Deuterium">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/0/0a/UUwahlkreis1Steglitz.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/6a/UUBVVlisteSteglitz.pdf">Formular für die BVV-Liste Steglitz-Zehlendorf</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Steglitz-Zehlendorf_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Gerwald Claus-Brunner (<a href="http://wiki.piratenpartei.de/Benutzer:Deuterium">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/0/0a/UUwahlkreis1Steglitz.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/6a/UUBVVlisteSteglitz.pdf">Formular für die BVV-Liste Steglitz-Zehlendorf</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Steglitz-Zehlendorf_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -1298,7 +1316,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Steglitz-Zehlendorf 2</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Stefan Müller<br><br><a href="http://wiki.piratenpartei.de/wiki/images/f/ff/Scan001-7.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/6a/UUBVVlisteSteglitz.pdf">Formular für die BVV-Liste Steglitz-Zehlendorf</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Steglitz-Zehlendorf_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Stefan Müller<br><br><a href="http://wiki.piratenpartei.de/wiki/images/7/7f/UU-Formular_WK2_Steglitz-Zehlendorf.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/6a/UUBVVlisteSteglitz.pdf">Formular für die BVV-Liste Steglitz-Zehlendorf</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Steglitz-Zehlendorf_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>
@@ -1554,7 +1572,13 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Steglitz-Zehlendorf 5</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Oliver Rennefeld</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Oliver Rennefeld<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/9f/Wahlkreis5.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/6a/UUBVVlisteSteglitz.pdf">Formular für die BVV-Liste Steglitz-Zehlendorf</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Steglitz-Zehlendorf_.28BVV.29">Kandidaten</a>)<br>
+
+
+<br>
+
+
+<a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br></div>]]></description>
     <styleUrl>#style21</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -1625,7 +1649,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Steglitz-Zehlendorf 6</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Gerwald Claus-Brunner (<a href="http://wiki.piratenpartei.de/Benutzer:Deuterium">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/0/0a/UUwahlkreis1Steglitz.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/6a/UUBVVlisteSteglitz.pdf">Formular für die BVV-Liste Steglitz-Zehlendorf</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Steglitz-Zehlendorf_.28BVV.29">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Georg von Boroviczeny (<a href="http://wiki.piratenpartei.de/Benutzer:Georgberlin">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/4/42/UUwahlkreis6Steglitz.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/6a/UUBVVlisteSteglitz.pdf">Formular für die BVV-Liste Steglitz-Zehlendorf</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Steglitz-Zehlendorf_.28BVV.29">Kandidaten</a>)<br>
 
 
 <br>

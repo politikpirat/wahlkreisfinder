@@ -189,11 +189,11 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   </Style>
   <Style id="style14">
     <LineStyle>
-      <color>40000000</color>
+      <color>FF000000</color>
       <width>3</width>
     </LineStyle>
     <PolyStyle>
-      <color>73FF6633</color>
+      <color>730099FF</color>
       <fill>1</fill>
       <outline>1</outline>
     </PolyStyle>
@@ -211,11 +211,11 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   </Style>
   <Style id="style18">
     <LineStyle>
-      <color>40000000</color>
+      <color>FF000000</color>
       <width>3</width>
     </LineStyle>
     <PolyStyle>
-      <color>7333FF33</color>
+      <color>730099FF</color>
       <fill>1</fill>
       <outline>1</outline>
     </PolyStyle>
@@ -565,7 +565,9 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Pankow 3</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Martin Delius (<a href="http://wiki.piratenpartei.de/Benutzer:Mpd">Wikiseite</a>)</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Martin Delius (<a href="http://wiki.piratenpartei.de/Benutzer:Mpd">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/67/UU_Wahlkreis3_Pankow.pdf">Unterschriftenformular</a> <span>ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br></span><a href="http://wiki.piratenpartei.de/wiki/images/4/48/BVVPankowUU.pdf">Formular für die BVV-Liste Pankow</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Pankow_.28BVV.29">Kandidaten</a>)<br>
+<br>
+<a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br></div>]]></description>
     <styleUrl>#style19</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -977,7 +979,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Mitte 1</name>
     <Snippet></Snippet>
-    <description><![CDATA[Katja Dathe (<a href="http://wiki.piratenpartei.de/Benutzer:Katja_Dathe">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/Datei:KatjaDathe.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_2">Kandidaten</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)]]></description>
+    <description><![CDATA[Katja Dathe (<a href="http://wiki.piratenpartei.de/Benutzer:Katja_Dathe">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/Datei:KatjaDathe.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_.28BVV.29">Kandidaten</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)]]></description>
     <styleUrl>#style17</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -1050,7 +1052,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Mitte 2</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Andreas Baum (<a href="http://wiki.piratenpartei.de/Benutzer:Rka">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/Datei:AndreasBaum.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Andreas Baum (<a href="http://wiki.piratenpartei.de/Benutzer:Rka">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/Datei:AndreasBaum.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_.28BVV.29">Kandidaten</a>)<br>
 <br>
 <a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br><a href="http://wiki.piratenpartei.de/Benutzer:Rka"></a></div>]]></description>
     <styleUrl>#style21</styleUrl>
@@ -1135,7 +1137,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Mitte 3</name>
     <Snippet></Snippet>
-    <description><![CDATA[Simon Weiß (<a href="http://wiki.piratenpartei.de/Benutzer:Shw">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/Datei:SimonWeiss.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_2">Kandidaten</a>)<br>
+    <description><![CDATA[Simon Weiß (<a href="http://wiki.piratenpartei.de/Benutzer:Shw">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/Datei:SimonWeiss.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_.28BVV.29">Kandidaten</a>)<br>
 <br>
 <a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)]]></description>
     <styleUrl>#style12</styleUrl>
@@ -1225,7 +1227,9 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Mitte 4</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">David Kirchner (<a href="http://wiki.piratenpartei.de/Benutzer:Ido">Wikiseite</a>)</div>]]></description>
+    <description><![CDATA[<div dir="ltr">David Kirchner (<a href="http://wiki.piratenpartei.de/Benutzer:Ido">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/7/75/DavidKirchner.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_.28BVV.29">Kandidaten</a>)<br>
+<br>
+<a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br></div>]]></description>
     <styleUrl>#style6</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -1262,7 +1266,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Mitte 5</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Jan-Ulrich Franz (<a href="http://wiki.piratenpartei.de/Benutzer:AlohaHe">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/a/ad/Jan_Ulrich_Franz.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_%28BVV%29">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Jan-Ulrich Franz (<a href="http://wiki.piratenpartei.de/Benutzer:AlohaHe">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/a/ad/Jan_Ulrich_Franz.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_.28BVV.29">Kandidaten</a>)<br>
 <br>
 <a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br><a href="http://wiki.piratenpartei.de/Benutzer:Rka"></a></div>]]></description>
     <styleUrl>#style5</styleUrl>
@@ -1312,7 +1316,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Mitte 6</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Wolfram Prieß (<a href="http://wiki.piratenpartei.de/Benutzer:Wop">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/e/eb/WolframPriess.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_%28BVV%29">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Wolfram Prieß (<a href="http://wiki.piratenpartei.de/Benutzer:Wop">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/e/eb/WolframPriess.PDF">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/3/30/BVV_Mitte.PDF">Formular für die BVV-Liste Mitte</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Mitte_.28BVV.29">Kandidaten</a>)<br>
 <br>
 <a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br><a href="http://wiki.piratenpartei.de/Benutzer:Rka"></a></div>]]></description>
     <styleUrl>#style2</styleUrl>
@@ -1376,7 +1380,11 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Friedrichshain-Kreuzberg 1</name>
     <Snippet></Snippet>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<div dir="ltr">Karin Alex Arlt (<a href="http://wiki.piratenpartei.de/Benutzer:Brain_freedom">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/5/5b/UU_Karin_Alex_Arlt.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_.28BVV.29">Kandidaten</a>)<br>
+
+<br>
+
+<a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br></div>]]></description>
     <styleUrl>#style14</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -1442,7 +1450,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Friedrichshain-Kreuzberg 2</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Jessica Zinn (<a href="http://wiki.piratenpartei.de/Benutzer:JeZc">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/e/e8/UUJessicaZinn.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Jessica Zinn (<a href="http://wiki.piratenpartei.de/Benutzer:JeZc">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/e/e8/UUJessicaZinn.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_.28BVV.29">Kandidaten</a>)<br>
 
 <br>
 
@@ -1499,7 +1507,11 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Friedrichshain-Kreuzberg 3</name>
     <Snippet></Snippet>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[Fabio Reinhardt (<a href="http://wiki.piratenpartei.de/Benutzer:Enigma">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/d/d3/UU_Fabio_Reinhardt.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_.28BVV.29">Kandidaten</a>)<br>
+
+<br>
+
+<a href="http://wiki.piratenpartei.de/wiki/images/d/dd/AHW11-UU-Landesliste.pdf">Formular für die Landesliste</a> (<a href="http://wiki.piratenpartei.de/BE:Unterschriften#Landesliste">Kandidate</a>n)<br>]]></description>
     <styleUrl>#style18</styleUrl>
     <Polygon>
       <outerBoundaryIs>
@@ -1565,7 +1577,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Friedrichshain-Kreuzberg 4</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Jessica Zinn (<a href="http://wiki.piratenpartei.de/Benutzer:JeZc">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/e/e8/UUJessicaZinn.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_.28BVV.29">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Oliver Höfinghoff (<a href="http://wiki.piratenpartei.de/Benutzer:Urban_Pirate">Wikiseite</a>)<a href="http://wiki.piratenpartei.de/wiki/images/2/26/UUOliverH%C3%B6finghoff.pdf"><br><br></a><a href="http://wiki.piratenpartei.de/wiki/images/2/26/UUOliverH%C3%B6finghoff.pdf">Unterschriftenformular</a><span> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.</span><br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_.28BVV.29">Kandidaten</a>)<br>
 
 <br>
 
@@ -1618,7 +1630,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Friedrichshain-Kreuzberg 5</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Alexander Morlang (<a href="http://wiki.piratenpartei.de/Benutzer:Alxhh">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/6a/UUAlexMorlang.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Alexander Morlang (<a href="http://wiki.piratenpartei.de/Benutzer:Alxhh">Wikiseite</a>)<br><br><a href="http://wiki.piratenpartei.de/wiki/images/6/6a/UUAlexMorlang.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_.28BVV.29">Kandidaten</a>)<br>
 
 <br>
 
@@ -1664,7 +1676,7 @@ http://bit.ly/iiQtwk	Charlottenburg-Wilmersdorf, Spandau, Reinickendorf
   <Placemark>
     <name>Friedrichshain-Kreuzberg 6</name>
     <Snippet></Snippet>
-    <description><![CDATA[<div dir="ltr">Felix Just<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/98/UUFelixJust.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_2">Kandidaten</a>)<br>
+    <description><![CDATA[<div dir="ltr">Felix Just<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/98/UUFelixJust.pdf">Unterschriftenformular</a> ausdrucken, ausfüllen und an<br><br>Piratenpartei Berlin<br>Pflugstr. 9a<br>10115 Berlin<br><br>schicken.<br><br><a href="http://wiki.piratenpartei.de/wiki/images/9/96/UUFhnKbg.pdf">Formular für die BVV-Liste Friedrichshain-Kreuzberg</a> (<a href="http://wiki.piratenpartei.de/BE:Kandidaten#Friedrichshain-Kreuzberg_.28BVV.29">Kandidaten</a>)<br>
 
 <br>
 
